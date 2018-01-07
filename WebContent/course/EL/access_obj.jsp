@@ -10,6 +10,6 @@
 
 ${pageContext.session.id} 
 <br>
- LoginStatus is : ${sessionScope.LoginStatus }
+[seesion var] LoginStatus is : ${sessionScope.LoginStatus }
 </body>
 </html>
